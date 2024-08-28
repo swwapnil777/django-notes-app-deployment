@@ -2,7 +2,7 @@
 This is a simple notes app built with React and Django.
 
 
-![Alt text](<Screen Recording 2024-08-28 095342.gif>)
+![Alt text](<architecture.gif>)
 
 
 
