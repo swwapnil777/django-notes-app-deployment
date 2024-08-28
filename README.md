@@ -1,6 +1,12 @@
 
 This is a simple notes app built with React and Django.
 
+
+![Alt text](<Screen Recording 2024-08-28 095342.gif>)
+
+
+
+
 ## Requirements
 1. Python 3.9
 2. Node.js
